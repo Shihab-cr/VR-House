@@ -1,0 +1,5 @@
+E:/MyProjects/Unity_Projects/Create with code/VR House/.utmp/RelWithDebInfo/734p306k/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/MyProjects/Unity_Projects/Create with code/VR House/.utmp/RelWithDebInfo/734p306k/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/MyProjects/Unity_Projects/Create with code/VR House/.utmp/RelWithDebInfo/734p306k/arm64-v8a/GameActivity/CMakeFiles/game.dir
+E:/MyProjects/Unity_Projects/Create with code/VR House/.utmp/RelWithDebInfo/734p306k/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+E:/MyProjects/Unity_Projects/Create with code/VR House/.utmp/RelWithDebInfo/734p306k/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
